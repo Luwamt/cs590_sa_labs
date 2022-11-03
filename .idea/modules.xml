@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookApplication/BookClient.iml" filepath="$PROJECT_DIR$/BookApplication/BookClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookClients/BookClients.iml" filepath="$PROJECT_DIR$/BookClients/BookClients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootJMSReceiver/BootJMSReceiver.iml" filepath="$PROJECT_DIR$/BootJMSReceiver/BootJMSReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs590_sa_labs.iml" filepath="$PROJECT_DIR$/cs590_sa_labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookApplicationTempo/lab2.iml" filepath="$PROJECT_DIR$/BookApplicationTempo/lab2.iml" />
+    </modules>
+  </component>
+</project>
